@@ -148,5 +148,10 @@ The application is currently at the beginning of its development lifecycle. More
 Built as part of an academic programming project while developing practical skills in Java, software development, testing, and version control.
 
 ---
+registration failed
+<img width="1285" height="207" alt="image" src="https://github.com/user-attachments/assets/81791a5e-cf23-40f8-b546-166fa36b61e3" />
+login failed
+<img width="730" height="213" alt="image" src="https://github.com/user-attachments/assets/ccbf9b45-a441-4824-bd2e-fed7b3c2c7e1" />
+
 
 ⭐ **This repository is a work in progress. Follow the project as it evolves from its initial authentication foundation into a more complete chat application.**
