@@ -1,99 +1,152 @@
-# Chat App
+# 💬 Chat App
 
-A Java-based chat application currently under development as part of an academic programming project.
+> **A Java-based chat application built from the ground up — currently in Part 1 of development.**
 
-> **Development Status:** Part 1 — Initial Development
+![Status](https://img.shields.io/badge/Status-In%20Development-orange)
+![Language](https://img.shields.io/badge/Language-Java-blue)
+![Build](https://img.shields.io/badge/Build-Maven-red)
+![Testing](https://img.shields.io/badge/Testing-JUnit-green)
 
-## Overview
+## 🚀 About the Project
 
-The **Chat App** is a Java application being developed to demonstrate fundamental programming concepts, application structure, user authentication, input validation, and software development practices.
+**Chat App** is a Java application being developed as an academic programming project, with the goal of progressively building a functional chat application from the ground up.
 
-The project is being developed incrementally, with additional functionality planned for future parts of the project.
+Rather than creating the entire application at once, the project is being developed in stages. **Part 1 establishes the foundation of the application through user registration, login, validation, and testing.**
 
-## Current Features
+This repository will evolve as new functionality is implemented.
 
-### Part 1
+---
 
-The current version focuses on the initial user authentication functionality:
+## 🔐 Part 1 — Authentication Foundation
 
-* User registration
-* User login
-* Username validation
-* Password validation
-* Basic input validation
-* Authentication-related logic
+The first stage focuses on establishing a reliable authentication foundation.
 
-## Technology Stack
+### Current functionality
 
-* **Java**
-* **Apache Maven**
-* **NetBeans IDE**
-* **JUnit** — for software testing
-* **Git & GitHub** — for version control and project management
+* 👤 User registration
+* 🔑 User login
+* ✅ Username validation
+* 🔒 Password validation
+* ⚠️ Input validation and error handling
+* 🧪 Initial automated testing
 
-## Project Structure
+The focus of Part 1 is not to create a complete messaging platform yet, but to build a solid foundation that can be expanded in later stages.
 
-The project follows a standard Maven-based Java project structure:
+---
+
+## 🛠️ Technologies
+
+| Technology          | Purpose                           |
+| ------------------- | --------------------------------- |
+| ☕ **Java**          | Application development           |
+| 📦 **Apache Maven** | Project and dependency management |
+| 🧪 **JUnit**        | Automated testing                 |
+| 💻 **NetBeans**     | Development environment           |
+| 🔧 **Git**          | Version control                   |
+| 🌐 **GitHub**       | Source-code hosting               |
+
+---
+
+## 📁 Project Structure
 
 ```text
 Chat App/
+│
 ├── src/
 │   ├── main/
 │   │   └── java/
 │   │       └── com/
 │   │           └── mycompany/
 │   │               └── chatapp/
+│   │
 │   └── test/
 │       └── java/
+│
 ├── pom.xml
 └── README.md
 ```
 
-## Development Roadmap
-
-The application is being developed in stages.
-
-### Part 1 — Initial Development
-
-* [x] Project setup
-* [x] User registration
-* [x] User login
-* [x] Initial validation
-* [ ] Further testing and refinement
-
-### Future Development
-
-Planned functionality will be added in subsequent development stages, depending on the requirements of the project.
-
-Potential future functionality may include:
-
-* Messaging functionality
-* User management
-* Additional validation
-* Improved user interface
-* Expanded automated testing
-* Additional application features
-
-## Testing
-
-Testing is being incorporated throughout development to verify that the application's functionality behaves as expected.
-
-JUnit is being used for automated testing where applicable.
-
-## Version Control
-
-Git and GitHub are used to track the development of the project and maintain different stages of the application's development.
-
-## Project Status
-
-This project is **actively under development**.
-
-The current repository represents **Part 1 of the application**, so some functionality may not yet be implemented. The project will be expanded as development progresses.
-
-## Author
-
-Developed as part of an academic programming project.
+The project follows a Maven-based structure to keep the application organized and scalable as development continues.
 
 ---
 
-**Note:** This README will be updated as new parts and functionality are completed.
+## 🗺️ Development Roadmap
+
+### ✅ Part 1 — Foundation
+
+* [x] Project initialization
+* [x] Registration functionality
+* [x] Login functionality
+* [x] Input validation
+* [x] Initial testing
+* [ ] Further refinement
+
+### 🔜 Future Development
+
+As development progresses, the application will be expanded with additional functionality required by the project.
+
+Planned areas may include:
+
+* 💬 Messaging functionality
+* 👥 User interaction
+* 🧪 Expanded automated testing
+* 🎨 Improved user interface
+* 🔐 Additional security and validation
+* ⚙️ Additional application functionality
+
+> **Features listed under future development are not currently implemented.**
+
+---
+
+## 🧪 Testing
+
+Testing is an important part of the development process.
+
+JUnit is being used to test application functionality and help identify issues as new features are introduced.
+
+As the project grows, the test suite will grow alongside it.
+
+---
+
+## 📈 Development Approach
+
+This project follows an **incremental development approach**.
+
+Each stage builds on the previous one, allowing functionality to be implemented, tested, and refined before moving forward.
+
+The repository therefore represents the **current development state**, rather than a finished product.
+
+---
+
+## 🎯 Project Goals
+
+The project provides practical experience with:
+
+* Object-oriented programming
+* Java application development
+* Input validation
+* Automated testing
+* Maven project management
+* Git version control
+* GitHub-based project management
+* Incremental software development
+
+---
+
+## 📌 Current Status
+
+**🟠 In Development — Part 1**
+
+The application is currently at the beginning of its development lifecycle. More functionality will be added as subsequent parts of the project are completed.
+
+---
+
+## 👨‍💻 Author
+
+**Student Developer**
+
+Built as part of an academic programming project while developing practical skills in Java, software development, testing, and version control.
+
+---
+
+⭐ **This repository is a work in progress. Follow the project as it evolves from its initial authentication foundation into a more complete chat application.**
