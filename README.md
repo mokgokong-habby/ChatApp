@@ -13,7 +13,7 @@
 
 Rather than creating the entire application at once, the project is being developed in stages. **Part 1 establishes the foundation of the application through user registration, login, validation, and testing.**
 
-This repository will evolve as new functionality is implemented.
+This repository will evolve as new functionality is implemented..
 
 ---
 
