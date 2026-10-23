@@ -7,7 +7,7 @@
 ![Build](https://img.shields.io/badge/Build-Maven-red)
 ![Testing](https://img.shields.io/badge/Testing-JUnit-green)
 
-# 💬 QuickChat
+
 
 ### A Java Console-Based Messaging Application
 
