@@ -242,6 +242,9 @@ registration failed
 <img width="1285" height="207" alt="image" src="https://github.com/user-attachments/assets/81791a5e-cf23-40f8-b546-166fa36b61e3" />
 login failed
 <img width="730" height="213" alt="image" src="https://github.com/user-attachments/assets/ccbf9b45-a441-4824-bd2e-fed7b3c2c7e1" />
+part 2
+<img width="902" height="515" alt="image" src="https://github.com/user-attachments/assets/447f6f73-651e-4df7-8fe4-c03f0a390c85" />
+<img width="632" height="252" alt="image" src="https://github.com/user-attachments/assets/54c9a83a-a0fc-48e0-b934-7f5229deefa6" />
 
 
 ⭐ **This repository is a work in progress. Follow the project as it evolves from its initial authentication foundation into a more complete chat application.**
