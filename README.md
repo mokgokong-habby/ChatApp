@@ -245,6 +245,10 @@ login failed
 part 2
 <img width="902" height="515" alt="image" src="https://github.com/user-attachments/assets/447f6f73-651e-4df7-8fe4-c03f0a390c85" />
 <img width="632" height="252" alt="image" src="https://github.com/user-attachments/assets/54c9a83a-a0fc-48e0-b934-7f5229deefa6" />
+part 3
+<img width="1560" height="711" alt="image" src="https://github.com/user-attachments/assets/8c9f6b0f-a130-49d5-b437-11a105cba11c" />
+
+
 
 
 ⭐ **This repository is a work in progress. Follow the project as it evolves from its initial authentication foundation into a more complete chat application.**
